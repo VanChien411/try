@@ -1,3 +1,7 @@
-dfafadfadf âfvzvbfx gâfeafad
-adfadfadfá âfvzvbfx
-a fdasfwfe 
+#include<iostream>
+using namspace std;
+int main() 
+{
+    cout << "Welcome to";
+    return 0;
+}
